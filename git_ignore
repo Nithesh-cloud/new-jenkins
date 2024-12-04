@@ -1,0 +1,7 @@
+# .gitignore example
+node_modules/
+.env
+*.log
+*.pyc
+__pycache__/
+
